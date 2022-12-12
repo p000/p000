@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning
 
-  - [ ] nuxt-js 3, vuejs 3, threejs
-  - [ ] go-kit (microservices)
-  - [ ] go-oauth
-  - [ ] docker
-  - [ ] mongodb
+  - [X] nuxt-js 3, vuejs 3, threejs
+  - [X] go-kit (microservices)
+  - [X] go-oauth
+  - [X] docker
+  - [X] mongodb
