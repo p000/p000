@@ -1,4 +1,4 @@
-#
+# 
 
 ## Hi there 👋
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning
+- 🔭 I’m currently working on ...
+  - [X] nuxt-js 3, vuejs 3, threejs and typescript.
+  - [X] microservices in golang
 
-  - [X] nuxt-js 3, vuejs 3, threejs
-  - [X] go-kit (microservices)
-  - [X] go-oauth
-  - [X] docker
-  - [X] mongodb
+- 🌱 I’m currently learning
+  - [X] rust
+  - [X] ionic
